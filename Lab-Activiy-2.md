@@ -101,4 +101,3 @@ Step 2.Step-by-Step Calculation:
 The linear convolution of 𝑥(𝑛)=[7,5,4,0] x(n)=[7,5,4,0] and ℎ(𝑛)=[0,3,6,2,9] is:
 
 [0,21,57,56,97,53,36,0].
-
