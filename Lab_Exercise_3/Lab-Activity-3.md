@@ -1,6 +1,9 @@
 Laboratory Activity 3: Auto Correlation
+
 Name			: April Sheen M. Domingo
+
 Course and Year	: BSCpE 4
+
 
 
 
